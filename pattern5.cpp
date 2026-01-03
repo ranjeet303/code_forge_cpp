@@ -16,7 +16,6 @@ void pattern2(int n, char ch)
 {
     for (int i = n; i > 0; i--)
     {
-
         for (int j = 0; j < i; j++)
         {
             cout << j + 1;
